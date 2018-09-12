@@ -5,6 +5,7 @@
     }
     #navbar {
         display: block;
+        position: fixed;
     }
     #main-content {
         display: block;
