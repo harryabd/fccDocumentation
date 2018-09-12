@@ -1,0 +1,12 @@
+@media only screen and (min-width: 768px) {
+    main {
+      display: flex;
+      
+    }
+    #navbar {
+        display: block;
+    }
+    .main-section {
+        display: block;
+    }
+}
